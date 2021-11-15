@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout<<"démarrage du projet";
+    std::cout<<"démarrage du projet lol";
     return 0;
 }
